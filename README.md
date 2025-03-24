@@ -1,2 +1,2 @@
 # node-api
-Small project to learn node.js
+Small project used to aplly the knowledge about the basics of node.js
